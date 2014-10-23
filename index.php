@@ -7,11 +7,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="css/estilosite.css" type="text/css" />
 <link rel="stylesheet" href="css/styles.css" type="text/css" />
-<link href="bootstrap-3.2.0-dist/css/bootstrap.min.css" rel="stylesheet" media="screen">
-<link href="bootstrap-3.2.0-dist/css/bootstrap.css" rel="stylesheet" media="screen">
-<link href="bootstrap-3.2.0-dist/css/bootstrap-theme.css" rel="stylesheet" media="screen">
-<link href="bootstrap-3.2.0-dist/css/bootstrap-theme.css.map" rel="stylesheet" media="screen">
-<link href="bootstrap-3.2.0-dist/css/bootstrap-theme.css.map" rel="stylesheet" media="screen">
+<link href="vendor/bootstrap-3.2.0-dist/css/bootstrap.min.css" rel="stylesheet" media="screen">
+<link href="vendor/bootstrap-3.2.0-dist/css/bootstrap.css" rel="stylesheet" media="screen">
+<link href="vendor/bootstrap-3.2.0-dist/css/bootstrap-theme.css" rel="stylesheet" media="screen">
+<link href="vendor/bootstrap-3.2.0-dist/css/bootstrap-theme.css.map" rel="stylesheet" media="screen">
+<link href="vendor/bootstrap-3.2.0-dist/css/bootstrap-theme.css.map" rel="stylesheet" media="screen">
 
 
 
@@ -20,7 +20,7 @@
 </head>
 <body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script src="bootstrap-3.2.0-dist/js/bootstrap.min.js"></script>
+<script src="vendor/bootstrap-3.2.0-dist/js/bootstrap.min.js"></script>
         <center>
         	<div id="topo"><!-- INCLUI O TOPO !-->
             	<?php include("includes/topo.php");?>
