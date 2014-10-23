@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+body{margin:0; padding:0;text-align:center; list-style:none; width:1200px; margin:0 auto}
+
+#topo{
+	border-bottom:solid 10px #1b9bff;	
+	}
+
+#conteudo_central{
+	min-height:100%;
+	padding-top:50px;
+	margin:0 auto;
+	width:1200px;
+	height:700px;
+	}
+
+#rodape{
+	background-color:#1b9bff;
+	height:40px;
+	width:1200px;
+	bottom:0;
+}
+#titulo{font-family:Arial, Helvetica, sans-serif; font-size:30px; text-align:center; border-bottom:solid 10px #F90;}
+
+#texto_rodape{
+	color:#FFF;
+	text-align:right;
+	padding-top:20px;
+	padding-right:5px;
+	font-size:10px;
+	}
+
+
+#redes_sociais_rodape{
+	float:left;
+	padding:5px;
+	}
+
+	
+.box_home{
+	font-family:"ITC Officina Sans";
+	float:left;
+	font-size:18px;
+	text-align:justify;	
+	}
+.box_home ul{}
+.box_home ul li{
+
+	margin: 5px; 
+	padding-top:5px;
+	padding-left: 50px;
+	list-style:none;
+	}
+
+.box_home a{
+	text-decoration:none;
+	color:#000;
+	}
+
